@@ -7,4 +7,5 @@
 * [344. Reverse String](344.-reverse-string.md)
 * [412. Fizz Buzz](412.-fizz-buzz.md)
 * [136. Single Number](136.-single-number.md)
+* [104. Maximum Depth of Binary Tree](104.-maximum-depth-of-binary-tree.md)
 
