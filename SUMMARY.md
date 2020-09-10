@@ -11,4 +11,6 @@
 * [283. Move Zeroes](283.-move-zeroes-1.md)
 * [371. Sum of Two Integers](371.-sum-of-two-integers.md)
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
+* [171. Excel Sheet Column Number](171.-excel-sheet-column-number.md)
+* [169. Majority Element](169.-majority-element.md)
 
