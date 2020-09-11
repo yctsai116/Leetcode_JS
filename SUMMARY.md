@@ -16,4 +16,5 @@
 * [122. Best Time to Buy and Sell Stock II](122.-best-time-to-buy-and-sell-stock-ii.md)
 * [242. Valid Anagram](242.-valid-anagram.md)
 * [217. Contains Duplicate](217.-contains-duplicate.md)
+* [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
 
