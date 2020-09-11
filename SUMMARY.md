@@ -13,4 +13,7 @@
 * [206. Reverse Linked List](206.-reverse-linked-list.md)
 * [171. Excel Sheet Column Number](171.-excel-sheet-column-number.md)
 * [169. Majority Element](169.-majority-element.md)
+* [122. Best Time to Buy and Sell Stock II](122.-best-time-to-buy-and-sell-stock-ii.md)
+* [242. Valid Anagram](242.-valid-anagram.md)
+* [217. Contains Duplicate](217.-contains-duplicate.md)
 
