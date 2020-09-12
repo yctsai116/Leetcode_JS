@@ -23,4 +23,5 @@
 * [121. Best Time to Buy and Sell Stock](121.-best-time-to-buy-and-sell-stock.md)
 * [21. Merge Two Sorted Lists](21.-merge-two-sorted-lists.md)
 * [202. Happy Number](202.-happy-number.md)
+* [118. Pascal's Triangle](118.-pascals-triangle.md)
 
