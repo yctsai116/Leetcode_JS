@@ -18,4 +18,5 @@
 * [217. Contains Duplicate](217.-contains-duplicate.md)
 * [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
 * [108. Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md)
+* [268. Missing Number](268.-missing-number.md)
 
