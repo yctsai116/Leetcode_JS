@@ -28,4 +28,5 @@
 * [101-. Symmetric Tree](101-.-symmetric-tree.md)
 * [53\*. Maximum Subarray](53-.-maximum-subarray.md)
 * [326. Power of Three](326.-power-of-three.md)
+* [191\*. Number of 1 Bits](191-.-number-of-1-bits.md)
 
