@@ -26,4 +26,5 @@
 * [118. Pascal's Triangle](118.-pascals-triangle.md)
 * [70. Climbing Stairs](70.-climbing-stairs.md)
 * [101-. Symmetric Tree](101-.-symmetric-tree.md)
+* [53\*. Maximum Subarray](53-.-maximum-subarray.md)
 
