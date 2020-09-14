@@ -31,4 +31,5 @@
 * [191\*. Number of 1 Bits](191-.-number-of-1-bits.md)
 * [198. House Robber](198.-house-robber.md)
 * [66. Plus One](66.-plus-one.md)
+* [1. Two Sum](1.-two-sum.md)
 
