@@ -32,4 +32,5 @@
 * [198. House Robber](198.-house-robber.md)
 * [66. Plus One](66.-plus-one.md)
 * [1. Two Sum](1.-two-sum.md)
+* [26. Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
 
