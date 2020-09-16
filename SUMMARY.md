@@ -33,4 +33,5 @@
 * [66. Plus One](66.-plus-one.md)
 * [1. Two Sum](1.-two-sum.md)
 * [26. Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
+* [172. Factorial Trailing Zeroes](172.-factorial-trailing-zeroes.md)
 
