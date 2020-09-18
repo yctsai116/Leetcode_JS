@@ -38,4 +38,5 @@
 * [141. Linked List Cycle](141.-linked-list-cycle.md)
 * [234. Palindrome Linked List](234.-palindrome-linked-list.md)
 * [155. Min Stack](155.-min-stack.md)
+* [14. Longest Common Prefix](14.-longest-common-prefix.md)
 
