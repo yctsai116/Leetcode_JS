@@ -39,4 +39,5 @@
 * [234. Palindrome Linked List](234.-palindrome-linked-list.md)
 * [155. Min Stack](155.-min-stack.md)
 * [14. Longest Common Prefix](14.-longest-common-prefix.md)
+* [28. Implement strStr\(\)](28.-implement-strstr.md)
 
