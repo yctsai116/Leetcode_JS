@@ -42,4 +42,6 @@
 * [28. Implement strStr\(\)](28.-implement-strstr.md)
 * [69. Sqrt\(x\)](69.-sqrt-x.md)
 * [160-\(unsolved\). Intersection of Two Linked Lists](160-unsolved-.-intersection-of-two-linked-lists.md)
+* [190. Reverse Bits](190.-reverse-bits.md)
+* [125. Valid Palindrome](125.-valid-palindrome.md)
 
