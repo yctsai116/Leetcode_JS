@@ -45,4 +45,5 @@
 * [190. Reverse Bits](190.-reverse-bits.md)
 * [125. Valid Palindrome](125.-valid-palindrome.md)
 * [189. Rotate Array](189.-rotate-array.md)
+* [204. Count Primes](204.-count-primes.md)
 
