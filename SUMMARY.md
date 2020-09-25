@@ -47,4 +47,5 @@
 * [189. Rotate Array](189.-rotate-array.md)
 * [204. Count Primes](204.-count-primes.md)
 * [7. Reverse Integer](7.-reverse-integer.md)
+* [94. Binary Tree Inorder Traversal](94.-binary-tree-inorder-traversal.md)
 
