@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About this gitbook](README.md)
+* [Appendix](appendix.md)
 * [283. Move Zeroes](283.-move-zeroes.md)
 * [9. Palindrome Number](9.-palindrome-number.md)
 * [13. Roman to Integer](13.-roman-to-integer.md)
@@ -56,6 +57,5 @@
 * [56. Merge Intervals](56.-merge-intervals.md)
 * [139\*. Word Break](139-.-word-break.md)
 * [88. Merge Sorted Array](88.-merge-sorted-array.md)
-* [Appendix](appendix.md)
 * [160-. Intersection of Two Linked Lists](160-.-intersection-of-two-linked-lists.md)
 
