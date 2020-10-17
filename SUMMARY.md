@@ -55,4 +55,6 @@
 * [138. Copy List with Random Pointer](138.-copy-list-with-random-pointer.md)
 * [56. Merge Intervals](56.-merge-intervals.md)
 * [139\*. Word Break](139-.-word-break.md)
+* [88. Merge Sorted Array](88.-merge-sorted-array.md)
+* [Appendix](appendix.md)
 
