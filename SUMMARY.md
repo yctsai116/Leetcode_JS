@@ -58,4 +58,5 @@
 * [139\*. Word Break](139-.-word-break.md)
 * [88. Merge Sorted Array](88.-merge-sorted-array.md)
 * [160-. Intersection of Two Linked Lists](160-.-intersection-of-two-linked-lists.md)
+* [1480. Running Sum of 1d Array](1480.-running-sum-of-1d-array.md)
 
